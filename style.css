@@ -1,0 +1,480 @@
+body
+{
+    overflow-x: hidden;
+    background-color: #111113;
+    
+}
+*  
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hmbuge
+{
+    display: grid;
+    background-color: #111113;
+    width: 100vw;
+    height: 70px;
+    color: aliceblue;
+    font-size: 17px;
+    justify-content: center;
+    grid-template-columns: 250px 80px 120px 100px 90px 100px 120px 90px 200px 250px ;
+}
+.WladTiho
+{
+   width: 50px;
+   height: 50px;
+}
+.glav
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Herroo
+{
+    width: 100vw;
+    height: 100vh;
+    background: no-repeat;
+    background: url(/bg-hero-561b6774.webp);
+}
+.Main1
+{
+    background-color: #111113;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.Text1
+{
+    color: aliceblue;
+    width: 800px;
+    margin-left:300px;
+    padding-top: 200px;
+}
+.Play
+{
+line-height: 100px;
+font-size: 90px;
+font-family: "Hind Vadodara", sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.About
+{
+line-height: 100px;
+font-family: "Hind Vadodara", sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+.Lose
+{
+    font-size: 90px;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 20px;
+    padding-top: 20px;
+}
+.Connects
+{
+    display: flex;
+    margin-top: 70px;
+}
+.twdstg
+{
+    margin-left: 230px;
+}
+.bnb
+{
+    height: 30px;
+    margin-top: 20px;
+}
+.ConnImg
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.koprobka
+{
+    margin-left:200px;
+    margin-top: 20px;
+}
+.butt
+{
+    color: #8dea17;
+    font-size: 16px;
+    background-color: #1f1f21;
+    border:none; 
+    padding: 15px;
+    width: 130px;
+    border-radius: 13px;
+}
+.butt:hover
+{
+    background-color: #313136;
+    animation: ease-in 0.5s;
+}
+.grayC
+{
+    color: #a6a8a9;
+    line-height: 100px;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 10px;
+}
+.grayBlock
+{
+    width: 100vw;
+    height: 350px;
+    background-color: #202020;
+    display: flex;
+    justify-content: space-evenly ;
+    padding: 50px;
+    padding-top: 20px; 
+    
+}
+.Text2
+{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 25px;
+}
+.Text2M
+{
+    text-align: center;
+    color: gray;
+    font-size: larger;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 25px;
+}
+.butt2
+{
+    margin: 20px 0px 0px 110px;
+    text-decoration-line: underline;
+    font-size: 15px;
+    border: none;
+    background-color: #1f1f21;
+    color: white;
+}
+.butt2:hover
+{
+    color: #8dea17;
+    animation: ease-in 0.5s;
+}
+.Media
+{
+    margin-top: 50px;
+    height: 100px;
+    width: 170px;
+}
+.Rev
+{
+    display: flex;
+    justify-content: center;
+}
+.RevTxt
+{
+    text-align: center;
+    color: azure;
+    margin-top: 80px;
+    font-size: 60px;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 25px;    
+}
+.Homiak
+{
+    height: 160px;
+    width: 160px;
+    margin-top: 50px;
+}
+.RevBoxes
+{
+    display: flex;
+    margin-left: 450px;
+    margin-bottom: 120px;
+}
+.Box1
+{
+    background-color:#18181a;
+    height: 200px;
+    width:400px ;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.Box2
+{
+    background-color:#18181a;
+    height: 200px;
+    width:400px ;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 220px;
+    
+}
+.Text3
+{
+    color: aliceblue;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight:490;
+    font-style: normal;
+    line-height: 25px;  
+    margin-top: 20px;
+}
+.Text3Game
+{
+    color: #8dea17;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.Video
+{
+    margin: auto;
+    width: 1500px;
+}
+.Row1
+{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.Row2
+{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.ImgSize
+{
+    width: 320px;
+    height: 210px;
+}
+.BoxText
+{
+    color: #8dea17;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.PlayToTxt
+{
+    color: #999999;
+    font-size: 150px;
+    text-align: center;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.EarnWin
+{
+    color: white;
+}
+.RevTxt2
+{
+    text-align: left;
+    color: azure;
+    margin-top: 180px;
+    margin-left: 320px;
+    font-size: 60px;
+    font-family: "Hind Vadodara", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 60px;    
+}
+
+.BoringBox
+{
+    margin-top: 100px;
+    display: flex;
+}
+
+.Borimg
+{
+    margin-left: 220px;
+}
+.Roadmap
+{
+    padding: 40px 40px 40px 320px;
+}
+.BoringASF
+{
+    border: #8dea17 1px solid;
+    border-radius: 10px;
+    width: 600px;
+    height: 750px;
+}
+.Lapki
+{
+    font-size: 15px;
+    padding-left: 15px;
+}
+
+.Lapki::before
+{
+    content:"";
+    position: absolute;
+    top: 4px;
+    left: 15px;
+    background: url(/solar_paw-linear-2.svg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+
+}
+.Lapki1
+{
+    font-size: 15px;
+    padding-left: 15px;
+}
+
+.Lapki1::before
+{
+    content:"";
+    position: absolute;
+    top: 4px;
+    left: 15px;
+    background: url(/solar_paw-linear.svg);
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+.hello
+{
+    color: #8dea17;
+}
+hello:hover
+{
+    color: #a3e44f;
+    text-decoration: underline;
+}
+@media (max-width: 430px)
+{
+.hmbuge {
+    width: 430px;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    flex-wrap: wrap;
+    }
+.Text1
+{
+    margin: 0;
+    padding: 0;
+    padding-top: 150px;
+}
+.Play
+{
+    font-size: 50px;
+    line-height: 65px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.Lose
+{
+    width: 420px;
+    margin-left: 20px;
+}
+.Connects
+{
+    margin-left: 20px;
+}
+.koprobka
+{
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 18px;
+}
+.twdstg
+{
+    margin: 0;
+    margin-left: 60px;
+}
+.Herroo
+{
+    height: 75vh;
+}
+.grayBlock
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    margin-top: 120px;
+    height: 900px;
+    gap: 60px;
+}
+.SharePic
+{
+    margin-left: 58px;
+}
+.RevTxt
+{
+    line-height: 60px;
+}
+.RevBoxes
+{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Box2
+{
+    margin: 0;
+    margin-top: 40px;
+}
+.Box1
+{
+    margin-top: 80px;
+}
+.PlayToTxt
+{
+    font-size: 90px;
+}
+.Row1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Row2
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.RevTxt2
+{
+    margin:0px;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.Text3
+{
+    margin: 0px ;
+    text-align: left;
+}
+}
